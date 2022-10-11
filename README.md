@@ -1,4 +1,7 @@
 # Pong Cold Heart (Open source)
+
+![image](https://user-images.githubusercontent.com/6144953/194989231-40a2dd17-db78-49c1-82bc-cbbf766dfa9c.png)
+
 Pong game with Cold Heart theme. 
 
 Made with Phaser 3 (JavaScript)
